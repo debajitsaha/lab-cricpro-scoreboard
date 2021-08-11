@@ -3,10 +3,10 @@
 
 /* change the font family and spacing as per your project font */
 .footer{
-    display:flex;
+   /* display:flex;
     flex-direction: row;
     align-content: flex-end;
-	position: relative;
+	position: relative;*/
 	top: 750px;
 	margin-left: 80px;
 	font-size: 18px;
